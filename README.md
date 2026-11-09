@@ -30,5 +30,5 @@ This is an awesome result because I think classifying 5 classes that are very cl
 # Project Structure
 * `1.Qiskit with ML Qubit Noise Classifier.ipynb`: The main Jupyter Notebook containing all the code from simulation, data collection, model training, to plotting the learning curve and confusion matrix.
 
-# Requirement
+# Requirements
 pip install qiskit qiskit-aer numpy pandas scikit-learn matplotlib seaborn
